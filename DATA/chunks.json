@@ -1,0 +1,52 @@
+[
+    {
+        "id": "chunk_1",
+        "text": "# FloCard Overview FloCard is a digital business card platform developed by 366Pi Technologies. Users can create, manage, and share digital business cards using QR codes and digital links. FloCard",
+        "source": "flocard.md"
+    },
+    {
+        "id": "chunk_2",
+        "text": "promotes sustainable networking by reducing the need for traditional paper business cards. Key Features: - Digital Business Cards - QR Code Sharing - Contact Management - Organization Profiles - Sustainability",
+        "source": "flocard.md"
+    },
+    {
+        "id": "chunk_3",
+        "text": "Focus",
+        "source": "flocard.md"
+    },
+    {
+        "id": "chunk_4",
+        "text": "# New Engineer Onboarding Guide New engineers should: 1. Understand company products. 2. Set up local development environment. 3. Learn project workflows. 4. Access project documentation. 5. Participate in team",
+        "source": "onboarding_guide.md"
+    },
+    {
+        "id": "chunk_5",
+        "text": "meetings. Best Practices: - Write clean code. - Document changes. - Test before deployment. - Follow coding standards.",
+        "source": "onboarding_guide.md"
+    },
+    {
+        "id": "chunk_6",
+        "text": "# 366Pi Technologies 366Pi Technologies is a technology company focused on digital transformation, networking solutions, and innovative digital products. The company develops platforms that help individuals, organizations, and communities connect",
+        "source": "company_overview.md"
+    },
+    {
+        "id": "chunk_7",
+        "text": "and share information efficiently. Products: - FloCard - Digital Networking Solutions Mission: To simplify professional networking through digital-first solutions. Vision: To create sustainable and innovative digital experiences.",
+        "source": "company_overview.md"
+    },
+    {
+        "id": "chunk_8",
+        "text": "# Engineering FAQ Q: What is FloCard? A: FloCard is a digital business card platform developed by 366Pi Technologies. Q: Why use digital business cards? A: They are sustainable, easy",
+        "source": "engineering_faq.md"
+    },
+    {
+        "id": "chunk_9",
+        "text": "to share, and easier to update than paper cards. Q: What database is used in this project? A: ChromaDB is used as the vector database. Q: Which LLM is used?",
+        "source": "engineering_faq.md"
+    },
+    {
+        "id": "chunk_10",
+        "text": "A: Llama 3.1 running through Ollama.",
+        "source": "engineering_faq.md"
+    }
+]
